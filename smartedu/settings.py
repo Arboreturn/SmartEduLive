@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$r1mdbztol(^qcq*!)s*n0^a%gd96aid_q621)-2o=kj)&t=dx
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['smartedu-p.herokuapp.com/','127.0.0.1']
+ALLOWED_HOSTS = ['smartedu0.herokuapp.com/','127.0.0.1']
 
 
 # Application definition  
